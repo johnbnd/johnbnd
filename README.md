@@ -16,7 +16,6 @@ With a background in embedded engineering and a focus on full-stack development,
   
   <img src="https://img.shields.io/badge/Procreate-111111?style=for-the-badge&logo=procreate&logoColor=4FF0D2" alt="Procreate" />
 </p>
-
 ---
 
 ### 📈 What I'm Up To
