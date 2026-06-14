@@ -1,4 +1,8 @@
 ## Hi there 👋
+I am a general engineer specializing in embedded technology.
+Right now, I'm focusing on becoming a full-stack developer.
+
+What makes you feel alive?
 
 <!--
 **johnbnd/johnbnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
