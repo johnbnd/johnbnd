@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hi there 👋##
 I am a general engineer specializing in embedded technology.
 Right now, I'm focusing on becoming a full-stack developer.
 -------------------------------------------------------------
-## Tools & Tech
+## Tools & Tec h##
 Python
 Html, CSS
 Procreate
