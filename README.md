@@ -13,6 +13,20 @@ I love bridging the gap between hardware and beautiful, functional software.
 | **Web Development** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
 | **Design & Creative** | ![Procreate](https://img.shields.io/badge/Procreate-Black?style=for-the-badge&logo=Procreate&logoColor=black&color=94E1D4) |
 ---
+### 🛠️ Tech Stack & Tools
+
+With a background in embedded engineering and a focus on full-stack development, here are the tools and languages I use:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  
+  <img src="https://img.shields.io/badge/Procreate-111111?style=for-the-badge&logo=procreate&logoColor=4FF0D2" alt="Procreate" />
+</p>
+
+---
 
 ### 📈 What I'm Up To
 
