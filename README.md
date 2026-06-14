@@ -1,7 +1,8 @@
 ## Hi there 👋 I'm [Your Name]
 
-I am a **General Engineer** specializing in **Embedded Technology**, currently pivoting and focusing on becoming a **Full-Stack Developer**. I love bridging the gap between hardware and beautiful, functional software.
-
+I am a **General Engineer** specializing in **Embedded Technology**, 
+currently pivoting and focusing on becoming a **Full-Stack Developer**. 
+I love bridging the gap between hardware and beautiful, functional software.
 ---
 
 ### 🛠️ Tools & Tech
@@ -11,10 +12,10 @@ I am a **General Engineer** specializing in **Embedded Technology**, currently p
 | **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | **Web Development** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
 | **Design & Creative** | ![Procreate](https://img.shields.io/badge/Procreate-Black?style=for-the-badge&logo=Procreate&logoColor=black&color=94E1D4) |
-
 ---
 
 ### 📈 What I'm Up To
+
 * 🚀 Learning advanced full-stack frameworks.
 * 🛠️ Working on bridging embedded systems with web applications.
 * 🎨 Designing UI/UX assets using Procreate.
